@@ -1,0 +1,25 @@
+h1, h2{
+    color: orange;
+    text-align: center;
+}
+table{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+thead{
+    background-color: olive;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: blanchedalmond;
+}
+tbody{
+    background-color: yellow;
+    
+}
+table, th, td {
+    border: 1px solid;
+}
